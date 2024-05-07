@@ -102,10 +102,10 @@
     {
       "identity" : "swift-shell",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/taji-taji/swift-shell.git",
+      "location" : "https://github.com/jcavar/swift-shell.git",
       "state" : {
-        "revision" : "ebbf4c33f5c81bd89a2b038f98b35e373566d668",
-        "version" : "1.0.1"
+        "branch" : "main",
+        "revision" : "90d15b453d9ec6265d0b6550905a0f5a69da5dfa"
       }
     },
     {
